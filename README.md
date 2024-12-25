@@ -1,5 +1,5 @@
 
-#EADME: Frontend Intern Task - Webpage
+# README: Frontend Intern Task - Webpage
 
 Project Overview
 This project is part of the Frontend Intern Task to create a webpage based on a given Figma design file. The webpage is built using HTML and CSS and demonstrates features like a navigation bar, hero section, features section, testimonials, and a footer.
